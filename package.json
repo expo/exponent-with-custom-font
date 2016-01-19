@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/exponentjs/exponent-with-custom-font.git"
   },
+  "dependencies": {
+    "fbjs": "^0.6.1"
+  },
   "keywords": [
     "EXFontLoader",
     "exponent",
