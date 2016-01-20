@@ -1,6 +1,6 @@
 {
   "name": "@exponent/with-custom-font",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Component that waits until a given font is loaded to render its children",
   "main": "index.js",
   "scripts": {
