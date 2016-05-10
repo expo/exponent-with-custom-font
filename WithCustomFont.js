@@ -3,8 +3,14 @@
  */
 'use strict';
 
+import React, { PropTypes } from 'react';
+import {
+  Platform,
+  View,
+} from 'react-native';
+
 import warning from 'fbjs/lib/warning';
-import React, { Platform, View, PropTypes } from 'react-native';
+
 import loadFontAsync from './utils/loadFontAsync';
 
 export default class WithCustomFont extends React.Component {
